@@ -22,7 +22,7 @@ namespace QALight_Task_4
         {
             { "Ukraine", "Kyiv" },
             { "Spain", "Madrid" },
-            { "Canada", "Ottawa" }
+            { "Canada", "Ottawa"}
         };
 
             weather.CountyAndCapital(capitals);
