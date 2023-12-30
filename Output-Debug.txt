@@ -1,0 +1,8 @@
+﻿'QALight_Task_5.exe' (CoreCLR: DefaultDomain): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.17\System.Private.CoreLib.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QALight_Task_5.exe' (CoreCLR: clrhost): Loaded 'C:\Users\heorhiis\source\repos\QALight_Task_1\QALight_Task_5\bin\Debug\net5.0\QALight_Task_5.dll'. Symbols loaded.
+'QALight_Task_5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.17\System.Runtime.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QALight_Task_5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.17\System.Console.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QALight_Task_5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.17\System.Threading.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+'QALight_Task_5.exe' (CoreCLR: clrhost): Loaded 'C:\Program Files\dotnet\shared\Microsoft.NETCore.App\5.0.17\System.Text.Encoding.Extensions.dll'. Skipped loading symbols. Module is optimized and the debugger option 'Just My Code' is enabled.
+Exception thrown: 'System.NullReferenceException' in QALight_Task_5.dll
+The program '[24816] QALight_Task_5.exe' has exited with code 0 (0x0).
