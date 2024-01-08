@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QALight_Task_4", "QALight_T
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QALight_Task_5", "QALight_Task_5\QALight_Task_5.csproj", "{47B0B7EB-1200-4F3C-AC8B-FC6B029D2C83}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QALight_Task_6", "QALight_Task_6\QALight_Task_6.csproj", "{3484E4FE-F9F7-4D9B-9287-0672806F6D4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{47B0B7EB-1200-4F3C-AC8B-FC6B029D2C83}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47B0B7EB-1200-4F3C-AC8B-FC6B029D2C83}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47B0B7EB-1200-4F3C-AC8B-FC6B029D2C83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3484E4FE-F9F7-4D9B-9287-0672806F6D4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3484E4FE-F9F7-4D9B-9287-0672806F6D4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3484E4FE-F9F7-4D9B-9287-0672806F6D4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3484E4FE-F9F7-4D9B-9287-0672806F6D4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
